@@ -22,7 +22,7 @@ Run the project and compile code - start Metro:
 In a new terminal, the app will be ran in Android emulator. Run:
 `npm run android`
 
-PS: you might need a bit of patience here.
+PS: you might need a bit of patience here. If nothing happens or the app fails to load, re-run the command.
 
 Export files from After Effects using bodymovin plugin:
 https://www.youtube.com/watch?v=d1wDl5A9yQk
